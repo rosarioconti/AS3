@@ -8,4 +8,4 @@ AS3 Examples
 
 - Tools
 
-<img src="http://en.wikipedia.org/wiki/ActionScript#/media/File:ActionScript_icon.png">
+<img src="http://upload.wikimedia.org/wikipedia/en/0/0f/ActionScript_icon.png">
